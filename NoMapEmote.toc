@@ -1,0 +1,7 @@
+## Interface: 50200
+## Title: No Map Emote
+## Notes: Blocks the /read emote when opening map.
+## Author: Haleth/Freethinker
+## Version: 1.0
+
+core.lua
